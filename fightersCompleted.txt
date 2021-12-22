@@ -1,0 +1,19 @@
+Name Nickname Lastname Weightclass Country Age Wins Losses KOs Height Weight(lbs)
+Demetrious Mighty_Mouse Johnson flyweight United_States 30 25 2 5 5 3 125
+Joseph n/a Benavidez flyweight United_States 32 25 4 6 5 4 125
+Henry The_Messenger Cejudo flyweight United_States 29 10 2 3 5 4 125
+Dominick The_Dominator Cruz bantamweight United_States 31 22 1 7 5 8 134
+TJ n/a Dillashaw bantamweight United_States 30 13 3 6 5 6 135
+John Hands_of_Stone Lineker bantamweight Brazil 26 29 7 13 5 2 126
+Jose Scarface Aldo featherweight Brazil 30 26 2 14 5 7 145
+Frankie The_Answer Edgar featherweight United_States 25 21 5 6 5 6 145
+Max Blessed Holloway featherweight United_States 25 16 3 6 5 11 145
+Conor Notorious McGregor lightweight Ireland 28 21 3 18 5 8 145
+Khabib The_Eagle Nurmagomedov lightweight Russia 28 24 0 8 5 10 155
+Tony El_Cucuy Ferguson lightweight United_States 32 22 3 9 6 0 155
+Tyron The_Chosen_One Woodley welterweight United_States 34 16 3 6 5 9 170
+Stephen Wonderboy Thompson welterweight United_States 33 13 1 7 6 0 170
+Robbie Ruthless	Lawler welterweight United_States 34 27 11 20 5 11 170
+Michael The_Count Bisping middleweight England 37 30 7 16 6 2 185
+Yoel Soldier_of_God Romero middleweight United_States 39 12 1 10 5 10 185
+Luke n/a Rockhold middleweight United_States 32 15 3 4 6 3 185
